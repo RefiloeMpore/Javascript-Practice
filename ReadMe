@@ -1,0 +1,64 @@
+avaScript Practice Test
+// ===============================
+
+// QUESTION 1: Variables
+// Declare a variable called 'city' and assign your favorite city name to it.
+// Then log: "My favorite city is <city>".
+
+
+
+// QUESTION 2: Functions
+// Write a function called 'addNumbers' that takes two numbers and returns their sum.
+
+
+// Example: addNumbers(5, 7) ➞ 12
+
+
+
+// QUESTION 3: Loops
+// Use a for loop to print all numbers from 1 to 10.
+
+
+// QUESTION 4: Arrays
+// Create an array named 'fruits' with 3 fruits.
+// Then use a loop to print each fruit on a new line.
+
+
+// QUESTION 5: Objects
+// Create an object called 'student' with properties: name, age, and course.
+// Log a sentence like: "<name> is <age> years old and studies <course>."
+
+
+// QUESTION 6: Conditional Statements
+// Write a function that takes a number and prints:
+// "Even" if it’s even, and "Odd" if it’s odd.
+
+
+// QUESTION 7: ES6 Feature
+// Convert the following function into an arrow function:
+// function multiply(a, b) {
+//     return a * b;
+// }
+
+
+
+// QUESTION 8: DOM Manipulation (Browser Only)
+// In HTML, create a <button id="clickMe">Click me</button>
+// Write JavaScript that changes the button text to "Clicked!" when it's clicked.
+
+
+// HINT: Use document.getElementById("clickMe").addEventListener(...)
+
+
+// QUESTION 9: String Methods
+// Write code that takes the string "JavaScript is fun!" and logs it in all uppercase.
+
+
+// QUESTION 10: Bonus Challenge 🎁
+// Write a function that reverses a string (without using built-in reverse()).
+// Example: reverseString("hello") ➞ "olleh"
+
+
+
+// ===============================
+// END OF TEST 
