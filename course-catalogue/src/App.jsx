@@ -1,3 +1,5 @@
+import Counter from './Counter';
+
 function Header({ course }) {
   return <h1>{course}</h1>;
 }
@@ -32,6 +34,8 @@ function App() {
 
   return (
     <div>
+      <Counter/>
+
       <Header course={name} />
       <Content
         part1Name="Fundamentals of React"
