@@ -1,5 +1,6 @@
 import Counter from './Counter';
 import TextInput from './TextInput';
+import List from './List';
 
 function Header({ course }) {
   return <h1>{course}</h1>;
@@ -37,6 +38,7 @@ function App() {
     <div>
       <Counter/>
       <TextInput/>
+      <List/>
 
       <Header course={name} />
       <Content
