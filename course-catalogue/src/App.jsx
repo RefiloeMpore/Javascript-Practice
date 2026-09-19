@@ -1,4 +1,5 @@
 import Counter from './Counter';
+import TextInput from './TextInput';
 
 function Header({ course }) {
   return <h1>{course}</h1>;
@@ -35,6 +36,7 @@ function App() {
   return (
     <div>
       <Counter/>
+      <TextInput/>
 
       <Header course={name} />
       <Content
